@@ -1,0 +1,34 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Rider / ReSharper
+.idea/
+*.sln.DotSettings.user
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.lock

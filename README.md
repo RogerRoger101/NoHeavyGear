@@ -1,5 +1,3 @@
-
-# Editor.md
 # NoHeavyGear.cs
 I got tired of watching players exploit Heavy Plate armor + vehicles.\
 This plugin blocks players from mounting into a vehicle with predefined armor.\

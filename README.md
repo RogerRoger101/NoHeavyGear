@@ -32,4 +32,3 @@ JSON:
 }
 ```
 
- ![](https://img.shields.io/github/release/pandao/editor.md.svg)
